@@ -1,0 +1,1 @@
+Django's docs are wrong wrt csrf AJAX HTTP POST requests. This is the right way to do it.
